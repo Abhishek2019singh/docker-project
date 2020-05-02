@@ -29,6 +29,12 @@ Now we need to start our infrastructure and so we need to launch the docker-comp
 1.docker-compose up
 This single command does all the work on behalf of us and thereby creates the multi-tier infrastructure and by checking the IP address of our system by using the command>>ipconfig enp0s3 ,we can get the required IP and use that with the port number 
 used during compose to browse our webapp which in my case opens a joomla platform which we can use according to our own choice and create our own website.
+https://user-images.githubusercontent.com/64477686/80862765-30810900-8c95-11ea-9ce9-d93ceeddad96.png
+https://user-images.githubusercontent.com/64477686/80862769-35de5380-8c95-11ea-9f98-2b5ed2685fe0.png
+https://user-images.githubusercontent.com/64477686/80862774-3971da80-8c95-11ea-960e-97c3a801f42d.png
+https://user-images.githubusercontent.com/64477686/80862777-3c6ccb00-8c95-11ea-9d54-f2b429f24a38.png
+https://user-images.githubusercontent.com/64477686/80862785-4d1d4100-8c95-11ea-96fc-3f471fa6a1f5.png
+https://user-images.githubusercontent.com/64477686/80862787-51e1f500-8c95-11ea-9d75-d032c88c4fd4.png
 
 
                                                             THANK YOU
